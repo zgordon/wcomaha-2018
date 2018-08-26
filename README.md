@@ -1,14 +1,14 @@
-#WordCamp Omaha 2018 Gutenberg Development Workshops
+# WordCamp Omaha 2018 Gutenberg Development Workshops
 
 In this 3hr workshop we will go over some of the basics of working with Gutenberg Block Development
 
-##Preparation
+## Preparation
 - Local install of WordPress
 - Latest Gutenberg Plugin
 - Code editor with terminal
 - Node & NPM installed
 
-##Workshop Outline
+## Workshop Outline
 1. Themes vs. Plugins
 2. Setting up a block plugin
 3. `registerBlockType()` settings
